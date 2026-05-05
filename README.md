@@ -15,3 +15,7 @@
 **Article1_AIPhotoDetection.pdf & Article2_AIPhotosInCourt.pdf:** 
 
 - Supporting articles with information relevant to your task.
+
+**Data Link:**
+
+- A link to the source of the data if you want more information about it. However, all data is loaded in the code, so you do not need to download it separately.
