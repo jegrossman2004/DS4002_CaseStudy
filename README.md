@@ -1,6 +1,8 @@
 # DS4002_CaseStudy
 
-**Case_Study_Code.ipynb:** Contains access to the dataset you will use AND a code template for you to fill in as requested in the rubric.
+**Case_Study_Code.ipynb:** 
+
+- Contains access to the dataset you will use AND a code template for you to fill in as requested in the rubric.
 
 **DS 4002 Hook Document.pdf:** A document describing your overarching task and goal.
 
